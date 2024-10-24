@@ -19,6 +19,6 @@ We focus on exploring and mastering **data structures** and **algorithm design**
 We love contributions! Feel free to fork the repo, create a pull request, or open an issue. Let's build something great together! 💻
 
 ## 📫 Contact Us:
-Got questions or ideas? Reach out via **[email/contact link]**.
+Got questions or ideas? Reach out via **[masih7816@gmail.com]**.
 
 Happy coding! 🎉
