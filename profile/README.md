@@ -1,6 +1,6 @@
 # 📚 Data Structures & Algorithms Organization
 
-Welcome to **[Your Organization Name]**! 🚀
+Welcome to **AlgoMastruct**! 🚀
 
 We focus on exploring and mastering **data structures** and **algorithm design** through collaborative projects, tutorials, and hands-on practice. Whether you're a newbie or a seasoned pro, there's something here for everyone! 🌟
 
